@@ -18,5 +18,5 @@ In this lab, students will use AutoML and HyperDrive to select the best performi
 
 ## Lab 4 - Managing and Monitoring Models using Azure Machine Learning service Walk-Through
 
-In this lab, the students will implement code that monitors the new model they created in the Azure Machine Learning service.
+In this lab, the students will implement code that monitors the new model they created in the Azure Machine Learning service. 
 
