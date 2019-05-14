@@ -15,8 +15,3 @@ In this lab, the students will train, register, deploy, and test, the model same
 ## Lab 3 - Use AutoML and Hyperdrive to Automate Machine
 
 In this lab, students will use AutoML and HyperDrive to select the best performing machine learning classification model and determine the optimal hyperparameter values. The goal is to see if they can get a model that performs better than the one they trained manually.
-
-## Lab 4 - Managing and Monitoring Models using Azure Machine Learning service Walk-Through
-
-In this lab, the students will implement code that monitors the new model they created in the Azure Machine Learning service. 
-
