@@ -12,6 +12,6 @@ In this lab, the students will train a classification model using Python in an A
 
 In this lab, the students will train, register, deploy, and test, the model same model they developed in lab 1.  Emphasis is on using the Azure Machine Learning service Python SDK.
 
-## Lab 3 - Use AutoML and Hyperdrive to Automate Machine
+## Lab 3 - Use AutoML and Hyperdrive to Automate Machine 
 
 In this lab, students will use AutoML and HyperDrive to select the best performing machine learning classification model and determine the optimal hyperparameter values. The goal is to see if they can get a model that performs better than the one they trained manually.

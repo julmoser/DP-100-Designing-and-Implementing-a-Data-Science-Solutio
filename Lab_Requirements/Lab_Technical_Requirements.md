@@ -21,8 +21,11 @@ If you have been given an Azure Pass to complete this lab, you may go to [http:/
 
 > Note: Internet Explorer is not supported. We recommend using Chrome, Edge, or, Firefox.
 
+## Lab Files
 
+A Jupyter Notebook is provided for each lab that provides the structure of the lab.  Because Azure Machine Learning service is a very exacting technology, most of the code that interfaces with AMLS is provided ready to run.  What is left undone is to add in the Python machine learning code as that is the job of a data scientist. Bear in mind, the goal of the labs is to help the data scientist understand how to use AMLS in their work.
 
+Lab 1 provides a comma separated (CSV) file to jump start the labs.  The assumption is that a data engineer provided the extract to the data scientist which is a typical workflow.
 
 
 ## Resources for future projects/learning
