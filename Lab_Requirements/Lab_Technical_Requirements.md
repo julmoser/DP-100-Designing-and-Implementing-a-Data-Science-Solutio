@@ -27,6 +27,9 @@ A Jupyter Notebook is provided for each lab that provides the structure of the l
 
 Lab 1 provides a comma separated (CSV) file to jump start the labs.  The assumption is that a data engineer provided the extract to the data scientist which is a typical workflow.
 
+### Notebooks prefixed with Starting_ are the labs to be worked on.
+### Notebooks prefixed with Finished_ are completed notebooks, i.e. the solution.
+
 
 ## Resources for future projects/learning
 
